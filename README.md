@@ -1,4 +1,5 @@
-# Hello, I'm Zongjun 👋
+# Hello, I'm Zongjun <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="32">😃
+
 <!--
 **zongjun-xu/zongjun-xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
